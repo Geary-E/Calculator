@@ -1,4 +1,4 @@
-*
+/*
   let seven = document.getElementById("seven"); // seven button
   let eight = document.getElementById("eight"); // eight button
   let nine = document.getElementById("nine");   // nine button
